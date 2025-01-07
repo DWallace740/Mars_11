@@ -20,6 +20,7 @@ You will explore the seasonal variations on Mars by analyzing temperature and at
 - **`part_1_mars_news.ipynb`**: Jupyter Notebook for scraping Mars news article data.
 - **`part_2_mars_weather.ipynb`**: Jupyter Notebook for scraping, analyzing, and visualizing Mars weather data.
 - **`mars_weather_data.csv`**: Exported CSV file containing the cleaned weather data.
+- **`mars_news.json: JSON file containing scraped Mars news titles and preview texts.
 
 ## Technologies Used
 
